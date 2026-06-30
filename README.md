@@ -38,13 +38,3 @@ app/
 ## Author
 Dhanya Sri M
 
-## 📸 Screenshots
-
-### Home Screen
-![Home Screen](Screenshots/home.png)
-
-### Add Expense
-![Add Expense](Screenshots/add_expense.png)
-
-### Expense List
-![Expense List](Screenshots/expense_list.png)
