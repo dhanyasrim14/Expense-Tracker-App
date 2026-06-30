@@ -38,7 +38,7 @@ app/
 ## Author
 Dhanya Sri M
 
-## Screenshots
+## 📸 Screenshots
 
 ### Home Screen
 ![Home Screen](screenshots/home.png)
