@@ -36,4 +36,4 @@ app/
 4. Run the application on an emulator or Android device.
 
 ## Author
-Dhanya Sri
+Dhanya Sri M
