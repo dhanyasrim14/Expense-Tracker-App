@@ -37,3 +37,14 @@ app/
 
 ## Author
 Dhanya Sri M
+
+## Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home.png)
+
+### Add Expense
+![Add Expense](screenshots/add_expense.png)
+
+### Expense List
+![Expense List](screenshots/expense_list.png)
